@@ -1,0 +1,52 @@
+"Chhatrapati Shivaji Maharaj Terminus" to "Masjid" is 1.0 km
+"Masjid" to "Sandhurst Road" is 1.2 km
+"Sandhurst Road" to "Byculla" is 1.5 km
+"Byculla" to "Chinchpokli" is 1.1 km
+"Chinchpokli" to "Currey Road" is 0.8 km
+"Currey Road" to "Parel" is 1.4 km
+"Parel" to "Dadar" is 1.5 km
+"Dadar" to "Matunga" is 1.2 km
+"Matunga" to "Sion" is 1.4 km
+"Sion" to "Kurla" is 1.7 km
+"Kurla" to "Vidya Vihar" is 1.4 km
+"Vidya Vihar" to "Ghatkopar" is 1.3 km
+"Ghatkopar" to "Vikhroli" is 3.1 km
+"Vikhroli" to "Kanjurmarg" is 1.4 km
+"Kanjurmarg" to "Bhandup" is 2.0 km
+"Bhandup" to "Nahur" is 1.4 km
+"Nahur" to "Mulund" is 1.3 km
+"Mulund" to "Thane" is 2.5 km
+"Thane" to "Kalwa" is 1.7 km
+"Kalwa" to "Mumbra" is 2.5 km
+"Mumbra" to "Diva" is 2.6 km
+"Diva" to "Kopar" is 2.0 km
+"Kopar" to "Dombivli" is 1.7 km
+"Dombivli" to "Thakurli" is 2.0 km
+"Thakurli" to "Kalyan" is 2.3 km
+"Kalyan" to "Vithalwadi" is 2.5 km
+"Vithalwadi" to "Ulhasnagar" is 1.0 km
+"Ulhasnagar" to "Ambernath" is 3.3 km
+"Ambernath" to "Badlapur" is 4.8 km
+"Badlapur" to "Vangani" is 9.2 km
+"Vangani" to "Shelu" is 3.9 km
+"Shelu" to "Neral" is 3.7 km
+"Neral" to "Bhivpuri Road" is 5.3 km
+"Bhivpuri Road" to "Karjat" is 6.6 km
+"Karjat" to "Palasdari" is 4.4 km
+"Palasdari" to "Kelavali" is 4.2 km
+"Kelavali" to "Dolavli" is 5.1 km
+"Dolavli" to "Lowjee" is 4.2 km
+"Lowjee" to "Khopoli" is 3.5 km
+"Khopoli" to "Khopoli" is 0.0 km
+"Kalyan" to "Shahad" is 2.0 km
+"Shahad" to "Ambivli" is 2.7 km
+"Ambivli" to "Titwala" is 6.2 km
+"Titwala" to "Khadavli" is 7.6 km
+"Khadavli" to "Vasind" is 7.1 km
+"Vasind" to "Asangaon" is 4.8 km
+"Asangaon" to "Atgaon" is 6.1 km
+"Atgaon" to "Thansit" is 5.6 km
+"Thansit" to "Khardi" is 7.8 km
+"Khardi" to "Umbarmali" is 5.6 km
+"Umbarmali" to "Kasara" is 6.3 km
+"Kasara" to "Kasara" is 0.0 km

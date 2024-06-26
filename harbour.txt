@@ -1,0 +1,25 @@
+"Chhatrapati Shivaji Maharaj Terminus" to "Masjid" is 1.0 km
+"Masjid" to "Sandhurst Road" is 1.2 km
+"Sandhurst Road" to "Dockyard Road" is 1.0 km
+"Dockyard Road" to "Reay Road" is 1.1 km
+"Reay Road" to "Cotton Green" is 1.1 km
+"Cotton Green" to "Sewri" is 1.1 km
+"Sewri" to "Wadala Road" is 2.0 km
+"Wadala Road" to "GTB Nagar" is 2.1 km
+"GTB Nagar" to "Chunabhatti" is 2.0 km
+"Chunabhatti" to "Kurla" is 1.6 km
+"Kurla" to "Tilaknagar" is 1.5 km
+"Tilaknagar" to "Chembur" is 1.3 km
+"Chembur" to "Govandi" is 2.0 km
+"Govandi" to "Mankhurd" is 1.9 km
+"Mankhurd" to "Vashi" is 4.4 km
+"Vashi" to "Sanpada" is 1.4 km
+"Sanpada" to "Juinagar" is 1.2 km
+"Juinagar" to "Nerul" is 2.2 km
+"Nerul" to "Seawoods - Darave" is 1.5 km
+"Seawoods - Darave" to "Belapur CBD" is 2.0 km
+"Belapur CBD" to "Kharghar" is 2.8 km
+"Kharghar" to "Mansarovar" is 2.0 km
+"Mansarovar" to "Khandeshwar" is 1.5 km
+"Khandeshwar" to "Panvel" is 2.7 km
+"Panvel" to "Panvel" is 2.7 km

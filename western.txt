@@ -1,0 +1,37 @@
+"Churchgate" to "Marine Lines" is 1.5 km
+"Marine Lines" to "Charni Road" is 1.7 km
+"Charni Road" to "Grant Road" is 1.3 km
+"Grant Road" to "Mumbai Central" is 2.4 km
+"Mumbai Central" to "Mahalaxmi" is 3.1 km
+"Mahalaxmi" to "Lower Parel" is 2.5 km
+"Lower Parel" to "Prabhadevi" is 1.9 km
+"Prabhadevi" to "Dadar" is 3.2 km
+"Dadar" to "Matunga Road" is 1.8 km
+"Matunga Road" to "Mahim Junction" is 2.7 km
+"Mahim Junction" to "Bandra" is 4.0 km
+"Bandra" to "Khar Road" is 2.2 km
+"Khar Road" to "Santacruz" is 2.4 km
+"Santacruz" to "Vile Parle" is 2.9 km
+"Vile Parle" to "Andheri" is 3.2 km
+"Andheri" to "Jogeshwari" is 3.4 km
+"Jogeshwari" to "Ram Mandir" is 2.6 km
+"Ram Mandir" to "Goregaon" is 2.2 km
+"Goregaon" to "Malad" is 3.3 km
+"Malad" to "Kandivali" is 3.3 km
+"Kandivali" to "Borivali" is 4.2 km
+"Borivali" to "Dahisar" is 3.7 km
+"Dahisar" to "Mira Road" is 6.0 km
+"Mira Road" to "Bhayandar" is 3.3 km
+"Bhayandar" to "Naigaon" is 5.3 km
+"Naigaon" to "Vasai Road" is 3.6 km
+"Vasai Road" to "Nallasopara" is 4.1 km
+"Nallasopara" to "Virar" is 5.0 km
+"Virar" to "Vaitarna" is 9.6 km
+"Vaitarna" to "Saphale" is 6.2 km
+"Saphale" to "Kelve Road" is 4.0 km
+"Kelve Road" to "Palghar" is 7.0 km
+"Palghar" to "Umroli" is 7.0 km
+"Umroli" to "Boisar" is 6.2 km
+"Boisar" to "Vangaon" is 6.0 km
+"Vangaon" to "Dahanu Road" is 8.4 km
+"Dahanu Road" to "Dahanu Road" is 0.0 km

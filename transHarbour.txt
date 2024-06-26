@@ -1,0 +1,8 @@
+"Thane" to "Airoli" is 8.2 km
+"Airoli" to "Rabale" is 2.7 km
+"Rabale" to "Ghansoli" is 2.1 km
+"Ghansoli" to "Kopar Khairane" is 2.7 km
+"Kopar Khairane" to "Turbhe" is 3.7 km
+"Turbhe" to "Sanpada" is 1.6 km
+"Sanpada" to "Juinagar" is 1.2 km
+"Juinagar" to "Turbhe" is 1.1 km
